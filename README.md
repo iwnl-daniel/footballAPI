@@ -14,7 +14,7 @@ The purpose of this small webapp is to demonstarate some of the information that
 python3 -m venv env
 source env/bin/activate
 pip install --upgrade -r requirements.txt
-python3 main.py
+python3 app.py
 ```
 
 ###### Windows:
@@ -23,5 +23,5 @@ python3 main.py
 py -m venv env
 .\env\Scripts\activate
 pip install --upgrade -r requirements.txt
-python3 main.py
+python3 app.py
 ```
