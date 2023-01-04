@@ -25,3 +25,6 @@ py -m venv env
 pip install --upgrade -r requirements.txt
 python3 app.py
 ```
+
+## Image Previews
+![alt text](https://github.com/iwnl-daniel/footballAPI/pagePreviews/champions_league.png?raw=true)
