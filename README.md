@@ -8,10 +8,10 @@ The purpose of this small web app is to demonstrate some of the information that
 
 ## Competitions include
 
-> European leagues and their current standings
-> FIFA World Cup
-> UEFA Champions League
-> CONMEBOL Copa Libertadores
+* European leagues and their current standings
+* FIFA World Cup
+* UEFA Champions League
+* CONMEBOL Copa Libertadores
 
 ## Running the code
 
